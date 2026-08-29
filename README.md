@@ -6,16 +6,16 @@ This repository is Fatma Ahmed's recruiter-friendly index for the 42 Abu Dhabi c
 
 | Rank | Project | Portfolio status |
 | --- | --- | --- |
-| 00 | [Libft](source/rank-00/libft) | Source included (Fatma-authored headers) |
+| 00 | [Libft source bundle](42-abu-dhabi-source-rank00-libft.zip) | Source included (Fatma-authored headers) |
 | 01 | ft_printf | Lesson included; source snapshot not found with attributable Fatma headers |
 | 01 | Get Next Line | Lesson included; source is also used inside the verified Cub3D tree |
 | 01 | Born2beroot | Lesson included; VM deliverable, no source repository |
 | 02 | Push_swap | Lesson included; source withheld because local copies contain other authors/collaborators |
-| 02 | [Minitalk](source/rank-02/minitalk) | Source included (Fatma-authored headers) |
+| 02 | [Minitalk source bundle](42-abu-dhabi-source-rank02-minitalk.zip) | Source included (Fatma-authored headers) |
 | 02 | fract-ol | Lesson included; downloaded copies carry other authors' headers |
-| 03 | [Minishell](source/rank-03/minishell) | Source included (Fatma-authored implementation snapshot) |
+| 03 | [Minishell source bundle](42-abu-dhabi-source-rank03-minishell.zip) | Source included (Fatma-authored implementation snapshot) |
 | 03 | Philosophers | Lesson included; local tree is a Theo Guérin reference tree with limited Fatma edits |
-| 04 | [Cub3D](source/rank-04/cub3d) | Source included; third-party MiniLibX is intentionally omitted |
+| 04 | [Cub3D source bundle](42-abu-dhabi-source-rank04-cub3d.zip) | Source included; third-party MiniLibX is intentionally omitted |
 | 04 | NetPractice | Lesson included; browser exercise has no source tree |
 | 04 | C++ Modules 00–04 | Lesson included; local snapshot carries another student's headers |
 
