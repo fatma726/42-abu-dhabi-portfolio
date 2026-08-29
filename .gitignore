@@ -1,0 +1,14 @@
+# Build products and local tools
+*.o
+*.a
+*.out
+minishell
+minishell_bonus
+cub3D
+push_swap
+server
+client
+.DS_Store
+.vscode/
+*.dSYM/
+valgrind-out.txt
