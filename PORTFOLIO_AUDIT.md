@@ -8,5 +8,8 @@ Checked before publication:
 - The selected Cub3D snapshot has Fatma headers throughout the project code; MiniLibX is a third-party dependency and is excluded.
 - Push_swap, Philosophers, fract-ol, ft_printf, and C++ module snapshots contain other developers' headers or history, so no source is copied here.
 - Born2beroot and NetPractice are practical/browser deliverables rather than source trees.
+- Every Rank 00–04 project now has a public, rank-organized README lesson under `docs/`, including objective, concepts, code flow, build/use steps, tests, mistakes, evaluation tips, improvements, and learning outcomes.
+- The interactive learning lab is published at `https://fatma726.github.io/42-abu-dhabi-portfolio/` and links all 12 project lessons.
+- Source bundles are published only for Libft, Minitalk, Minishell, and Cub3D. Each bundle is a ZIP with its original project tree and excludes generated binaries and third-party dependencies.
 
 No screenshots were available in the audited source folders. The learning lab uses offline CSS diagrams and animated flow cards instead of inventing screenshots.
