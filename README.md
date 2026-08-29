@@ -1,23 +1,23 @@
 # 42 Abu Dhabi — Rank 00 → Rank 04 Portfolio
 
-This repository is Fatma Ahmed's recruiter-friendly index for the 42 Abu Dhabi curriculum. Open the [animated student learning lab](lessons/index.html) for a guided lesson for every project, or read the [long-form Markdown guide](42_PROJECT_LEARNING_GUIDE.md).
+This repository is Fatma Ahmed's recruiter-friendly index for the 42 Abu Dhabi curriculum. Open the [animated student learning lab](lessons/index.html) for a guided lesson for every project, browse the [rank-organized project READMEs](docs/README.md), or read the [long-form Markdown guide](42_PROJECT_LEARNING_GUIDE.md).
 
 ## Project map
 
 | Rank | Project | Portfolio status |
 | --- | --- | --- |
-| 00 | [Libft source bundle](42-abu-dhabi-source-rank00-libft.zip) | Source included (Fatma-authored headers) |
-| 01 | ft_printf | Lesson included; source snapshot not found with attributable Fatma headers |
-| 01 | Get Next Line | Lesson included; source is also used inside the verified Cub3D tree |
-| 01 | Born2beroot | Lesson included; VM deliverable, no source repository |
-| 02 | Push_swap | Lesson included; source withheld because local copies contain other authors/collaborators |
-| 02 | [Minitalk source bundle](42-abu-dhabi-source-rank02-minitalk.zip) | Source included (Fatma-authored headers) |
-| 02 | fract-ol | Lesson included; downloaded copies carry other authors' headers |
-| 03 | [Minishell source bundle](42-abu-dhabi-source-rank03-minishell.zip) | Source included (Fatma-authored implementation snapshot) |
-| 03 | Philosophers | Lesson included; local tree is a Theo Guérin reference tree with limited Fatma edits |
-| 04 | [Cub3D source bundle](42-abu-dhabi-source-rank04-cub3d.zip) | Source included; third-party MiniLibX is intentionally omitted |
-| 04 | NetPractice | Lesson included; browser exercise has no source tree |
-| 04 | C++ Modules 00–04 | Lesson included; local snapshot carries another student's headers |
+| 00 | [Libft README](docs/rank-00/libft/README.md) · [source bundle](42-abu-dhabi-source-rank00-libft.zip) | Source included (Fatma-authored headers) |
+| 01 | [ft_printf README](docs/rank-01/ft_printf/README.md) | Lesson included; source snapshot not found with attributable Fatma headers |
+| 01 | [Get Next Line README](docs/rank-01/get-next-line/README.md) | Lesson included; source is also used inside the verified Cub3D tree |
+| 01 | [Born2beroot README](docs/rank-01/born2beroot/README.md) | Lesson included; VM deliverable, no source repository |
+| 02 | [Push_swap README](docs/rank-02/push-swap/README.md) | Lesson included; source withheld because local copies contain other authors/collaborators |
+| 02 | [Minitalk README](docs/rank-02/minitalk/README.md) · [source bundle](42-abu-dhabi-source-rank02-minitalk.zip) | Source included (Fatma-authored headers) |
+| 02 | [fract-ol README](docs/rank-02/fract-ol/README.md) | Lesson included; downloaded copies carry other authors' headers |
+| 03 | [Minishell README](docs/rank-03/minishell/README.md) · [source bundle](42-abu-dhabi-source-rank03-minishell.zip) | Source included (Fatma-authored implementation snapshot) |
+| 03 | [Philosophers README](docs/rank-03/philosophers/README.md) | Lesson included; local tree is a Theo Guérin reference tree with limited Fatma edits |
+| 04 | [Cub3D README](docs/rank-04/cub3d/README.md) · [source bundle](42-abu-dhabi-source-rank04-cub3d.zip) | Source included; third-party MiniLibX is intentionally omitted |
+| 04 | [NetPractice README](docs/rank-04/netpractice/README.md) | Lesson included; browser exercise has no source tree |
+| 04 | [C++ Modules 00–04 README](docs/rank-04/cpp-modules-00-04/README.md) | Lesson included; local snapshot carries another student's headers |
 
 ## Why some projects are lessons only
 
